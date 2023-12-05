@@ -78,7 +78,7 @@ Nome do Arquivo:Healthcare_Dashboard.pbix
 
 
 
-![Dashboard healthcare](https://niteolearning.com/blog/wp-content/uploads/2023/03/Dashboard-1-quadro-de-funcionarios.jpg)
+![Dashboard healthcare](https://imgur.com/a/flg8G9U)
 
 
 
