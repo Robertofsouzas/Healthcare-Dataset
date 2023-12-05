@@ -6,24 +6,30 @@
 
 Este projeto tem como objetivo realizar uma análise detalhada de dados relacionados à área da saúde, abordando desde a obtenção dos dados até sua integração em diferentes ambientes de armazenamento e visualização.
 
+
+## Ferramentas Utilizadas
+- **Python**: Linguagem de programação versátil e poderosa.
+- **Jupyter Notebook**: Ambiente interativo para execução e documentação do código.
+
+
 ### Etapas do Projeto
 1. Baixando como Bibliotecas
 
 Antes de começar, certifique-se de ter as bibliotecas necessárias instaladas. Utilize o seguinte comando para conectá-los:
 
 
-import os
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from datetime import datetime
-import time
-import pymssql as sql
-import warnings
-warnings.filterwarnings("ignore")
-import pyodbc
-import sqlalchemy as sa 
+- **import os
+- **import pandas as pd
+- **import numpy as np
+- **import matplotlib.pyplot as plt
+- **import seaborn as sns
+- **from datetime import datetime
+- **import time
+- **import pymssql as sql
+- **import warnings
+- **warnings.filterwarnings("ignore")
+- **import pyodbc
+- **import sqlalchemy as sa 
 
 ### 2. Configurando as  Credenciais Kaggle
 
