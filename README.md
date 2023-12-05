@@ -24,7 +24,7 @@ warnings.filterwarnings("ignore")
 import pyodbc
 import sqlalchemy as sa 
 
-2. Configurando como Credenciais Kaggle
+# 2. Configurando como Credenciais Kaggle
 
 Para obter os dados, é necessário configurar as credenciais do Kaggle. Siga os passos abaixo:
 
@@ -33,19 +33,19 @@ Faça login e vá para a seção "Conta".
 Clique em “Create New API Token” para baixar o arquivo kaggle.json.
 Mova o arquivo kaggle.jsonpara o diretório ~/.kaggle/no seu sistema.
 
-3. Visualizando os Dados
+# 3. Visualizando os Dados
 
 Nesta etapa, o foco entenderá a estrutura inicial dos dados. Utilize o Jupyter Notebook ou qualquer IDE Python para explorar o conjunto de dados.
 
-4. Análise Exploratória
+# 4. Análise Exploratória
 
 Explore os dados mais a fundo, identificando padrões, distribuições e possíveis correlações. Utilize bibliotecas como matplotlibe seabornpara criar visualizações informativas.
 
-5. Renomeando as Colunas
+# 5. Renomeando as Colunas
 
 Realize uma renomeação de colunas para garantir consistência e clareza
 
-6. Conversão de Tipos de Dados
+# 6. Conversão de Tipos de Dados
 
 Verifique e ajuste os tipos de dados conforme necessário.
 
