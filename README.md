@@ -2,7 +2,7 @@
 
 
 
-## Visão geral
+# Visão geral
 
 Este projeto tem como objetivo realizar uma análise detalhada de dados relacionados à área da saúde, abordando desde a obtenção dos dados até sua integração em diferentes ambientes de armazenamento e visualização.
 
@@ -24,7 +24,7 @@ warnings.filterwarnings("ignore")
 import pyodbc
 import sqlalchemy as sa 
 
-# 2. Configurando como Credenciais Kaggle
+# 2. Configurando as  Credenciais Kaggle
 
 Para obter os dados, é necessário configurar as credenciais do Kaggle. Siga os passos abaixo:
 
