@@ -11,18 +11,18 @@ Este projeto tem como objetivo realizar uma análise detalhada de dados relacion
 
 Antes de começar, certifique-se de ter as bibliotecas necessárias instaladas. Utilize o seguinte comando para conectá-los:
 
-** import os
-** import pandas as pd
-**import numpy as np
-**import matplotlib.pyplot as plt
-**import seaborn as sns
-**from datetime import datetime
-**import time
-**import pymssql as sql
-**import warnings
-**warnings.filterwarnings("ignore")
-**import pyodbc
-**import sqlalchemy as sa 
+### import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from datetime import datetime
+import time
+import pymssql as sql
+import warnings
+warnings.filterwarnings("ignore")
+import pyodbc
+import sqlalchemy as sa 
 
 # 2. Configurando as  Credenciais Kaggle
 
