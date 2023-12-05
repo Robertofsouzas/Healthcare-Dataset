@@ -49,25 +49,25 @@ Realize uma renomeação de colunas para garantir consistência e clareza
 
 Verifique e ajuste os tipos de dados conforme necessário.
 
-7. Verificando Valores Ausentes
+# 7. Verificando Valores Ausentes
 
 Identifique e trate valores ausentes.
 
-8. Verificando valores discrepantes
+# 8. Verificando valores discrepantes
 
 Analise outliers para garantir a qualidade dos dados
 
-9. Resumo Estatístico
+# 9. Resumo Estatístico
 
 Obtenha estatísticas descritivas para entender melhor a distribuição dos dados.
 
-10. Carregando no SQL Server
+# 10. Carregando no SQL Server
 
 Integre os dados em um ambiente SQL Server. Certifique-se de ter o SQL Server e o Python configurados corretamente. Utilize uma biblioteca pyodbce sqlalchemy.
 
 
 
-11. Integração com Microsoft Fabric Power BI online e Data Warehouse
+# 11. Integração com Microsoft Fabric Power BI online e Data Warehouse
 
 Desenvolva um dashboard interativo no Power BI, integrando dados provenientes do SQL Server e do Data Warehouse. -se de ter as credenciais e configurações.
 
