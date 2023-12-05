@@ -12,7 +12,7 @@ Este projeto tem como objetivo realizar uma análise detalhada de dados relacion
 Antes de começar, certifique-se de ter as bibliotecas necessárias instaladas. Utilize o seguinte comando para conectá-los:
 
 ** import os
-**import pandas as pd
+** import pandas as pd
 **import numpy as np
 **import matplotlib.pyplot as plt
 **import seaborn as sns
