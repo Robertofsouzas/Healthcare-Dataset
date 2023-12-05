@@ -78,7 +78,7 @@ Nome do Arquivo:Healthcare_Dashboard.pbix
 
 
 
-![Dashboard healthcare](https://previews.dropbox.com/p/thumb/ACFpCnW8Y2m4IMNoMDo90LjlGpxQ7eaAHuF9qpK1tt8vPfQoNbzOtq630MywdzJ4SG2vXCPS42lU-Eg2og2-SMupzZRMHuxohxkydvQAaUj8ItUaezOm8-fxscu3kXQJnf7kuCfPRkiHWVQKDM8Nsbc3r5eC-NrGb9BS6_CeD44eaasJcxaJ_74kUhhEGcinw73W6tTS_x3HXrRg3QdlIzxPDyc5kz7F7iEWG8rmMyB_aoaw3xxft1PqsVGUICWfSvjkL20N3bUu4ZIDPsnHEIY5dA3D3u6P6FBEgviOp8rm7eO38Qeft1NJcJpcn5YNiYNDf1Q3-2YF6VB-cjVdWc6t/p.jpeg)
+![Dashboard healthcare](https://niteolearning.com/blog/wp-content/uploads/2023/03/Dashboard-1-quadro-de-funcionarios.jpg)
 
 
 
