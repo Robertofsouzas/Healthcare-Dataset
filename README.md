@@ -78,7 +78,7 @@ Nome do Arquivo:Healthcare_Dashboard.pbix
 
 
 
-![Dashboard healthcare](https://imgur.com/a/flg8G9U)
+![Dashboard healthcare](https://imgur.com/a/ny5T5UO)
 
 
 
